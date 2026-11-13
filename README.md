@@ -4,6 +4,7 @@ An original fantasy campaign in development. The living are losing a long war ag
 
 | Read | Purpose |
 | --- | --- |
+| [Handover](HANDOVER.md) | Current checkpoint, controlling decisions and resumption prompt |
 | [The Lich King](lore/lich-king.md) | The artificer, his transformation, the portrait, his artifacts and his armies |
 | [The living world](lore/living-world.md) | Peoples, guilds and the setting index |
 | [Realms and old quarrels](lore/realms.md) | Borders, geography and treaties |
