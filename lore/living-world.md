@@ -19,10 +19,14 @@ Rank belongs to the individual. A team can include a Copper recruit under a more
 | Silver | Direct operations across houses and commit pooled resources. |
 | Mithril | Exercise independent command during a regional catastrophe. Few living adventurers hold this rank. |
 
+## Peoples
+
+[Orcs](peoples/orcs.md) travel in nomadic clans led by strength. Their entry covers challenges for leadership, clan country, households, ancestor worship, raiding and the gathering of a horde.
+
 ## Material available for later development
 
 The earlier map places Vardane and Cyranne on Avarra, Mereth across the southern straits and Tirren across the western sea. It proposes the Holds of Kharad, the Serevan League, Amareth and the Talren Compact. Their detailed borders, governments, policies and economies are working material. Rillcross and the Open Road Charter are also proposals.
 
 The draft census counted 2,106 inhabited towns in Vardane, of which 1,391 still answered. If these working figures are adopted, the difference of 715 counts towns that ceased reporting. It includes evacuated and isolated communities as well as destroyed towns.
 
-Develop the peoples by race or species first. The author wants orcs in the classic martial fantasy tradition. The earlier locality-first cultures and their accompanying religions were set aside. New societies, architecture, faiths and hierarchies remain to be developed. The protagonist and starting city are open.
+Develop the peoples by race or species first. The earlier locality-first cultures and their accompanying religions were set aside. The other peoples’ societies, architecture, faiths and hierarchies remain to be developed. The protagonist and starting city are open.
