@@ -23,10 +23,18 @@ Rank belongs to the individual. A team can include a Copper recruit under a more
 
 [Orcs](peoples/orcs.md) travel in nomadic clans led by strength. Their entry covers challenges for leadership, clan country, households, ancestor worship, raiding and the gathering of a horde.
 
+[Humans](peoples/humans.md) build kingdoms, charter towns and raise armies through overlapping obligations to land, crown and household.
+
+[Dwarves](peoples/dwarves.md) inhabit mountain holds ruled through royal clans, craft traditions and ancestral oaths.
+
+[Elves](peoples/elves.md) tend woodland realms whose houses and rulers remember centuries of alliance and encroachment.
+
+[Halflings](peoples/halflings.md) govern their villages through household moots and carry kinship, charters and hearth traditions with them on the road.
+
 ## Material available for later development
 
-The earlier map places Vardane and Cyranne on Avarra, Mereth across the southern straits and Tirren across the western sea. It proposes the Holds of Kharad, the Serevan League, Amareth and the Talren Compact. Their detailed borders, governments, policies and economies are working material. Rillcross and the Open Road Charter are also proposals.
+The earlier map places Vardane and Cyranne on Avarra, Mereth across the southern straits and Tirren across the western sea. It proposes the Holds of Kharad, the Serevan League, Amareth and the Talren Compact. The peoples entries establish the human crowns of Vardane and Cyranne and the dwarven Holds of Kharad. Detailed borders, the other states and older policy proposals remain working material. Rillcross and the Open Road Charter are also proposals.
 
 The draft census counted 2,106 inhabited towns in Vardane, of which 1,391 still answered. If these working figures are adopted, the difference of 715 counts towns that ceased reporting. It includes evacuated and isolated communities as well as destroyed towns.
 
-Develop the peoples by race or species first. The earlier locality-first cultures and their accompanying religions were set aside. The other peoples’ societies, architecture, faiths and hierarchies remain to be developed. The protagonist and starting city are open.
+Develop the peoples by race or species first. The earlier locality-first cultures and their accompanying religions were set aside. The protagonist and starting city are open.
