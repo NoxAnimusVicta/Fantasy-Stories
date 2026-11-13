@@ -33,7 +33,7 @@ Rank belongs to the individual. A team can include a Copper recruit under a more
 
 ## Material available for later development
 
-The earlier map places Vardane and Cyranne on Avarra, Mereth across the southern straits and Tirren across the western sea. It proposes the Holds of Kharad, the Serevan League, Amareth and the Talren Compact. The peoples entries establish the human crowns of Vardane and Cyranne and the dwarven Holds of Kharad. Detailed borders, the other states and older policy proposals remain working material. Rillcross and the Open Road Charter are also proposals.
+[Realms and old quarrels](realms.md) establishes the three continents, the regional powers and their principal disputes. The history of the invasion is in [The northern dominion and the eight-year war](northern-war.md). Rillcross as an opening city and the Open Road Charter remain proposals.
 
 The draft census counted 2,106 inhabited towns in Vardane, of which 1,391 still answered. If these working figures are adopted, the difference of 715 counts towns that ceased reporting. It includes evacuated and isolated communities as well as destroyed towns.
 
