@@ -1,0 +1,22 @@
+{
+  "checkpoint": "Before play",
+  "started": false,
+  "sections": [
+    {
+      "id": "character",
+      "body": "<h2>Arrival record</h2><p>You are yourself. You died in your sleep on Earth. The force that found you carried your body across and revived it, brain and memories intact.</p><details open><summary>Appearance</summary><p>Tied-back hair, a full ginger beard, a faded blue shirt and bare feet. The portrait records your appearance at arrival.</p></details><details><summary>Defining trait</summary><p>Ambition runs deeper than a lifetime. The resemblance to gluttony lies in the appetite itself. Even after achieving something once thought impossible, you want to know what comes next.</p></details>"
+    },
+    {
+      "id": "mana",
+      "body": "<h2>Arcane potential</h2><p>Your soul carries extraordinary mana reserves and a natural affinity for the arcane and occult. Your practical control at arrival is unassessed.</p><details open><summary>Scientific intuition</summary><p>You remember what you learned on Earth. A compass turning near a magnet gives you a familiar effect to aim for and a way to test your first attempt. Knowledge of gravity, magnetism and atomic structure gives you a head start where you understand the underlying principle. A working becomes part of your repertoire when you can actually perform it.</p></details><details><summary>Reserve and control</summary><p>A deep reserve gives you room to experiment, recover from waste and repeat difficult work. Precision, timing and judgment take practice. Your affinity would make you a prodigy in any incarnation. Here, it meets a lifetime of knowledge that local practitioners never had.</p></details>"
+    },
+    {
+      "id": "inventory",
+      "body": "<h2>On you</h2><p>Worn at arrival, as shown in the portrait.</p><details><summary>Blue pocket shirt</summary><p>Short sleeves, chest pocket and a frayed lower hem.</p></details><details><summary>Dark drawstring trousers</summary><p>Gathered cuffs at the ankles. Your feet are bare.</p></details><details><summary>Round pendant and chain</summary><p>A small circular pendant worn against your shirt.</p></details>"
+    },
+    {
+      "id": "origin",
+      "body": "<h2>Before the first scene</h2><p><i>Player’s account of the crossing</i></p><h3>A death in sleep</h3><p>Your life on Earth was real and it was yours. Its end came in your sleep. The precise cause is unknown.</p><h3>At the threshold</h3><p>In a land losing its war against the dead, people prayed for a saviour. Something answered. As your soul crossed, it recognised a nature fitted to its world. Your appetite for life had become inseparable from your soul. Even through ordinary reincarnation, memories of this life would eventually return.</p><h3>A continuation</h3><p>The entity brought your original body with you and restored it to life. It chose you for what your soul, will and Earthly understanding might accomplish together. Its identity and how much you perceive of its intervention remain unknown. The opening belongs in the wilderness. Your first action is still yours.</p>"
+    }
+  ]
+}
