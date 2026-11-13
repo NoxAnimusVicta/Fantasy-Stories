@@ -33,8 +33,8 @@ Rank belongs to the individual. A team can include a Copper recruit under a more
 
 ## Material available for later development
 
-[Realms and old quarrels](realms.md) establishes the three continents, the regional powers and their principal disputes. The history of the invasion is in [The northern dominion and the eight-year war](northern-war.md). Rillcross as an opening city and the Open Road Charter remain proposals.
+[Realms and old quarrels](realms.md) establishes the three continents, the regional powers and their principal disputes. The history of the invasion is in [The northern dominion and the eight-year war](northern-war.md). The opening belongs in the wilderness. The Open Road Charter remains a proposal.
 
 The draft census counted 2,106 inhabited towns in Vardane, of which 1,391 still answered. If these working figures are adopted, the difference of 715 counts towns that ceased reporting. It includes evacuated and isolated communities as well as destroyed towns.
 
-Develop the peoples by race or species first. The earlier locality-first cultures and their accompanying religions were set aside. The protagonist and starting city are open.
+Develop the peoples by race or species first. The earlier locality-first cultures and their accompanying religions were set aside. The exact wilderness starting point is open.
