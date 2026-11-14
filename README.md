@@ -1,6 +1,6 @@
 # The Lich King's War
 
-An original fantasy campaign in development. The living are losing a long war against the undead. Play has yet to begin.
+An original fantasy campaign in progress. The living are losing a long war against the undead. Play has reached the creek bank after the first transmutation.
 
 | Read | Purpose |
 | --- | --- |
@@ -21,4 +21,4 @@ An original fantasy campaign in development. The living are losing a long war ag
 | [Narrator guide](NARRATOR-GUIDE.md) | How to portray this setting and run it with the player |
 | [Campaign handbook](reference/story-campaign-handbook.md) | The supplied procedures for narration, continuity, resolution and optional systems |
 
-The opening will be in the wilderness. Its exact location and date remain open. Work on the lore can continue without choosing them.
+The protagonist awoke in a remote forested valley. Its regional position and the local calendar date remain unknown.
