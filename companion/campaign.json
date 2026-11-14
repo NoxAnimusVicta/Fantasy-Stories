@@ -39,12 +39,12 @@
     },
     {
       "id": "pendant-chain",
-      "name": "Pendant and chain",
-      "description": "Round pendant on a fine chain.",
+      "name": "Saint Christopher necklace",
+      "description": "A round Saint Christopher medal on a fine chain.",
       "quantity": 1,
       "location": "On you",
       "status": "Worn",
-      "source": "Arrival portrait"
+      "source": "Arrival portrait and player identification"
     }
   ],
   "story": [
