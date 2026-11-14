@@ -1,42 +1,46 @@
 {
-  "checkpoint": "Before play",
-  "recordedThrough": "arrival-premise",
-  "started": false,
+  "checkpoint": "Early morning · Creek bank",
+  "recordedThrough": "0013-alchemy",
+  "started": true,
   "character": {
     "id": "protagonist",
-    "appearance": "Strawberry blonde hair tied back, full beard, bare feet.",
+    "appearance": "Strawberry blonde hair tied back, full beard. Ink-blue coat and Saint Christopher medal.",
     "reserve": "Extraordinary",
     "affinity": "Arcane and occult",
-    "trait": "Ambition persists across lives. Your will and soul are so closely bound that memories of this life would eventually return even after ordinary reincarnation."
+    "trait": "Ambition persists across lives. Your will and soul are so closely bound that memories of this life would eventually return even after ordinary reincarnation.",
+    "condition": "Breathing steady. Eyes sore, soles and hands cut, upper arm scratched, ribs tender. The left forefoot hurts under weight."
   },
   "skills": [
     {
       "id": "mana-control",
       "name": "Mana manipulation",
       "summary": "Direct mana into a deliberate working.",
-      "assessment": "Unassessed",
-      "detail": "Your reserves give you room to experiment. Your knowledge of physical principles gives you ways to recognise and test an effect. Practical control has yet to be demonstrated."
+      "assessment": "Developing control",
+      "detail": "First sensed beside the fallen pine. An involuntary shockwave briefly checked the undead. Water shaping and transmutation followed."
+    },
+    {
+      "id": "advance-sight",
+      "name": "Sharingan · one tomoe",
+      "summary": "Anticipate visible movement.",
+      "assessment": "Involuntary · inactive",
+      "detail": "Brief advance images guided counters and exposed openings. Both eyes bled. Deliberate activation remains untested."
+    },
+    {
+      "id": "water-shaping",
+      "name": "Water shaping",
+      "summary": "Guide water through movement.",
+      "assessment": "Repeated deliberately",
+      "detail": "Rotating rings cut through scouts and forest for hundreds of metres. After resting, you joined a thread of creek water around the damaged ground beyond your sight."
+    },
+    {
+      "id": "transmutation",
+      "name": "Material transmutation",
+      "summary": "Separate materials and form new objects.",
+      "assessment": "First completed working",
+      "detail": "You traced a circle in water, separated the debris and formed a complete outfit from a small part of it. Surplus material remains on the slope."
     }
   ],
   "inventory": [
-    {
-      "id": "blue-shirt",
-      "name": "Blue pocket shirt",
-      "description": "Frayed lower hem; short sleeves.",
-      "quantity": 1,
-      "location": "On you",
-      "status": "Worn",
-      "source": "Arrival portrait"
-    },
-    {
-      "id": "drawstring-trousers",
-      "name": "Drawstring trousers",
-      "description": "Dark fabric with gathered cuffs.",
-      "quantity": 1,
-      "location": "On you",
-      "status": "Worn",
-      "source": "Arrival portrait"
-    },
     {
       "id": "pendant-chain",
       "name": "Saint Christopher necklace",
@@ -45,6 +49,60 @@
       "location": "On you",
       "status": "Worn",
       "source": "Arrival portrait and player identification"
+    },
+    {
+      "id": "ink-coat",
+      "name": "Ink-blue split coat",
+      "description": "Ivory trim, three polished bone toggles and copper-coloured cuff lining. Split behind the knees for running.",
+      "quantity": 1,
+      "status": "Worn",
+      "location": "On you",
+      "source": "Creek-bank transmutation"
+    },
+    {
+      "id": "charcoal-shirt",
+      "name": "Charcoal shirt",
+      "description": "Open neck, worn beneath the coat.",
+      "quantity": 1,
+      "status": "Worn",
+      "location": "On you",
+      "source": "Creek-bank transmutation"
+    },
+    {
+      "id": "slate-trousers",
+      "name": "Slate trousers",
+      "description": "Loose slate trousers.",
+      "quantity": 1,
+      "status": "Worn",
+      "location": "On you",
+      "source": "Creek-bank transmutation"
+    },
+    {
+      "id": "creek-boots",
+      "name": "Laced boots",
+      "description": "One pair with soft woven uppers and dark resin-bound soles.",
+      "quantity": 1,
+      "status": "Worn",
+      "location": "On you",
+      "source": "Creek-bank transmutation"
+    },
+    {
+      "id": "blue-shirt",
+      "name": "Blue pocket shirt",
+      "description": "Sodden Earth shirt torn at the pocket, collar and sleeve.",
+      "quantity": 1,
+      "location": "Creek bank",
+      "status": "Left on the bank",
+      "source": "Arrival and creek-bank change of clothes"
+    },
+    {
+      "id": "drawstring-trousers",
+      "name": "Drawstring trousers",
+      "description": "Sodden drawstring trousers torn at one knee.",
+      "quantity": 1,
+      "location": "Creek bank",
+      "status": "Left on the bank",
+      "source": "Arrival and creek-bank change of clothes"
     }
   ],
   "story": [
@@ -61,7 +119,32 @@
     {
       "id": "crossing",
       "title": "The crossing",
-      "text": "The presence carried your original body across and revived it. Your brain, memories and Earthly knowledge came with you. The first wilderness scene has yet to begin."
+      "text": "The presence carried your original body across and revived it. Your brain, memories and Earthly knowledge came with you."
+    },
+    {
+      "id": "awakening",
+      "title": "The fallen pine",
+      "text": "You woke barefoot in a remote forested valley wearing your Earth clothes and Saint Christopher necklace. Standing beside the fallen pine, you sensed a force within you."
+    },
+    {
+      "id": "scouts",
+      "title": "Driven to the creek",
+      "text": "Mindless undead closed around you. More cut off your escape through the timber. By the creek bend your feet were cut and your pocket torn. You fought unarmed in the shallows."
+    },
+    {
+      "id": "reflection",
+      "title": "One tomoe",
+      "text": "A shockwave briefly halted the scouts. You saw their strikes an instant ahead and caught a glimpse of red eyes, each marked with a single black tomoe, in the water."
+    },
+    {
+      "id": "water-rings",
+      "title": "The water rings",
+      "text": "Rotating blades of creek water cut through the scouts and trees for hundreds of metres. With the immediate threat ended, you dropped to your knees laughing. The Sharingan faded."
+    },
+    {
+      "id": "creek-outfit",
+      "title": "A coat from the wreckage",
+      "text": "After ten minutes of rest you traced a circle around the damaged forest and used its debris to make a coat, shirt, trousers and boots. Your Earth clothes lie beside you. A pale mineral line marks the circle across the slope."
     }
   ]
 }
