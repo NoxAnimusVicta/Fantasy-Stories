@@ -1,3 +1,3 @@
-# Campaign companion
+# Threshold
 
-[Open the journal on GitHub Pages](https://noxanimusvicta.github.io/Fantasy-Stories/companion/) when Pages serves the root of main. The app loads [the current player-facing campaign record](campaign.json) on opening. Select the arrival portrait from your device to display it for this session.
+[Open the companion](https://noxanimusvicta.github.io/Fantasy-Stories/companion/). In Safari choose Share → Add to Home Screen. The app loads its player-facing record from campaign.json. Deploy only the app assets to gh-pages after updating main.
