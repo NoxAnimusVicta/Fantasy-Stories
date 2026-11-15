@@ -9,6 +9,7 @@ An original fantasy campaign in progress. The living are losing a long war again
 | [The Lich King](lore/lich-king.md) | The artificer, his transformation, the portrait, his artifacts and his armies |
 | [The living world](lore/living-world.md) | Peoples, guilds and the setting index |
 | [Realms and old quarrels](lore/realms.md) | Borders, geography and treaties |
+| [The Inland Sun](lore/orr.md) | Orr beneath eastern Kharad, its creation hymn and the other shore |
 | [Magic and faith](lore/magic-and-faith.md) | Spellcraft, worship and necromancy |
 | [The northern dominion and the eight-year war](lore/northern-war.md) | The invasion and its turning points |
 | [Armies of the living and the dead](lore/armies.md) | Forces, commands and battlefield outcomes |
