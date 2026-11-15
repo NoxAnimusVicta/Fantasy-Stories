@@ -8,6 +8,16 @@ Most people have so little readily accessible mana that their first deliberate w
 
 The river crowns fund schools because they want operators, artificers and battlefield practitioners. Clan hearths, herding families and tribal teachers keep other methods alive through apprenticeship. An institutional certificate may get a caster through a city gate while the best teacher of their particular art lives three weeks away under canvas. Neither ancestry nor admission to a school decides what a person can learn.
 
+### Improvisation and power
+
+Mana can reshape reality in whatever way a practitioner can conceive and carry through. A technique is one person's successful way of doing something. Someone who grasps its principle can reproduce it, vary it or answer it with a working the inventor has never seen. A physicist and a potter may both understand heat well enough to shape it. Neither needs the other's vocabulary.
+
+Expenditure depends on the actual change and the caster's control. Freezing a skin across a creek, freezing its whole depth and keeping a channel frozen against someone deliberately warming it are three different demands. A completed change can persist by ordinary means. Ice lasts until it melts. Continuing to move water uphill requires a continuing supply of mana. When the reserve runs dry, that supply stops.
+
+Resolve contests from the situation as it develops. A wide working can overwhelm many opponents at once. A smaller one can change the conditions on which it depends. Either caster may improvise again if they perceive the change and can act in time. A convincing counter can succeed outright. No automatic exchange of counters, numerical power level or fixed cost table governs a fight.
+
+At the creek checkpoint the protagonist has extraordinary reserves and unusual ease directing them. Understanding a principle makes copying and adapting its technique come readily. Earthly knowledge of heat transfer, molecular motion and changes of state makes fire and ice especially accessible. The creek demonstrated both tremendous reach and poor regulation under stress. In a direct duel at this stage the Lich King would defeat the protagonist brutally, even alone. His centuries of practice with his own artifacts give him a decisive advantage in choosing, timing and sustaining a response. This is a present matchup, not a permanent hierarchy.
+
 ### What an adventurer means by a speciality
 
 Warrior, ranger and mage are answers people give over a guild supper. Rank is a separate matter. A Copper mage works under a sponsor just as a Copper warrior does.
